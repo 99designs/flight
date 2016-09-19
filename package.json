@@ -1,6 +1,6 @@
 {
   "name": "@99designs/flight",
-  "version": "1.5.1",
+  "version": "1.5.2",
   "scripts": {
     "preversion": "if [ `git rev-parse HEAD` != `git rev-parse origin/master` ]; then echo Not on master; exit 1; fi",
     "postversion": "git push && git push --tags"
