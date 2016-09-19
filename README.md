@@ -1,3 +1,9 @@
+# 99designs Fork
+
+Published to NPM at @99designs/flight without breaking API changes.
+
+`npm install --save @99designs/flight`
+
 # Please note
 
 Flight is **not under active development**. New pull requests will not be accepted unless they fix core bugs or security issues.
